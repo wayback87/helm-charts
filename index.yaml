@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  sampleapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-11-28T17:14:54.288392811-07:00"
+    description: A Helm chart for SampleApp with Istio service mesh support
+    digest: 44b0e49abc8339cb1c408cb6532ee5a87bfbbdf56c7ce59f2230185ef0acb8d8
+    keywords:
+    - sampleapp
+    - istio
+    - kubernetes
+    maintainers:
+    - name: DevOps Team
+    name: sampleapp
+    type: application
+    urls:
+    - sampleapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-28T17:14:54.287545716-07:00"
